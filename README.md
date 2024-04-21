@@ -6,7 +6,7 @@ Joyful personal finance management for everyone.
 
 ![Fijoy Home](./assets/readme.png)
 
-## Contribution
+## Installation
 
 Make sure you have [Just](https://github.com/casey/just) installed to run just commands.
 And do a quick `just init` to grab all the dependencies.
@@ -72,3 +72,7 @@ just test
 ---
 
 To run the project, simply use `just dev`.
+
+## Contribute
+
+Please read this [Contribute Guideline](https://github.com/itsjoeoui/fijoy/blob/main/CONTRIBUTING.md).
